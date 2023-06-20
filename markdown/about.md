@@ -4,7 +4,7 @@
 
 ## The Basics
 
-- Name: Aurora/Auri/Aura
+- Names: Aurora/Auri/Aura
 - Pronouns: they/she
 - Hobbies: writing, programming, and reading
 
