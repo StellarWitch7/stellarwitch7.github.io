@@ -23,11 +23,7 @@ h1, h2, h3, h4, ul, p {
 }
 
 img {
-  background: var(--bg-colour);
-}
-
-svg {
-  background: var(--bg-colour);
+  background: var(--bg-colour)!important;
 }
 
 /* unvisited link */
