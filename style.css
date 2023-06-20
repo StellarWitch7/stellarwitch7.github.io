@@ -12,17 +12,12 @@
   }
 }
 
-* {
-  background-color: var(--bg-colour);
-  color: var(--fg-colour);
-}
-
 body {
   background: var(--bg-colour);
   color: var(--fg-colour);
 }
 
-h1, h2, h3, p {
+h1, h2, h3, ul, p {
   background-color: var(--bg-colour);
   color: var(--fg-colour);
 }
