@@ -20,18 +20,18 @@
 
 ## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
+[![I know CSharp and Java](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
 
 ## Known Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,visualstudio,unity,idea,blender)](https://skillicons.dev)
+[![I've used Git, Visual Studio, and IntelliJ IDEA extensively, as well as some Unity and Blender](https://skillicons.dev/icons?i=git,visualstudio,unity,idea,blender)](https://skillicons.dev)
 
 ## Socials
 
 - GitHub: [@StellarWitch7](https://github.com/StellarWitch7)
 - Discord: @StellarWitch#3662
 
-[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
+[![I am present on GitHub and Discord primarily](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
 ## Current Projects
 
