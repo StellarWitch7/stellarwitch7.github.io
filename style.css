@@ -17,12 +17,16 @@ body {
   color: var(--fg-colour);
 }
 
-h1, h2, h3, ul, p {
+h1, h2, h3, h4, ul, p {
   background-color: var(--bg-colour);
   color: var(--fg-colour);
 }
 
 img {
+  background: var(--bg-colour);
+}
+
+svg {
   background: var(--bg-colour);
 }
 
