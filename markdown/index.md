@@ -44,4 +44,4 @@
 
 ## Details
 
-[![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/StellarWitch7)
+[![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
