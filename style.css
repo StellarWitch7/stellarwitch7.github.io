@@ -4,43 +4,48 @@
 
 /* Light mode */
 :root {
---bg-colour: #FFFFFF;
---fg-colour: #000000;
+  --bg-colour: #FFFFFF;
+  --fg-colour: #000000;
 }
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
-:root {
---bg-colour: #212121;
---fg-colour: #FFFFFF;
-}
+  :root {
+    --bg-colour: #212121;
+    --fg-colour: #FFFFFF;
+  }
 }
 
 body {
-background: var(--bg-colour);
-color: var(--fg-colour);
+  background: var(--bg-colour);
+  color: var(--fg-colour);
+}
+
+h1, h2, h3, p {
+  background-color: var(--bg-colour);
+  color: var(--fg-colour);
 }
 
 img {
-background: var(--bg-colour);
+  background: var(--bg-colour);
 }
 
 /* unvisited link */
 a:link {
-color: #ca57ff;
+  color: #ca57ff;
 }
 
 /* visited link */
 a:visited {
-color: #ca57ff;
+  color: #ca57ff;
 }
 
 /* mouse over link */
 a:hover {
-color: #ca57ff;
+  color: #ca57ff;
 }
 
 /* selected link */
 a:active {
-color: #ca57ff;
+  color: #ca57ff;
 }
