@@ -1,0 +1,44 @@
+@import "https://raw.githubusercontent.com/sindresorhus/github-markdown-css/main/github-markdown-dark.css";
+
+/* Light mode */
+:root {
+--bg-colour: #FFFFFF;
+--fg-colour: #000000;
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+:root {
+--bg-colour: #212121;
+--fg-colour: #FFFFFF;
+}
+}
+
+body {
+background: var(--bg-colour);
+color: var(--fg-colour);
+}
+
+img {
+background: var(--bg-colour);
+}
+
+/* unvisited link */
+a:link {
+color: #ca57ff;
+}
+
+/* visited link */
+a:visited {
+color: #ca57ff;
+}
+
+/* mouse over link */
+a:hover {
+color: #ca57ff;
+}
+
+/* selected link */
+a:active {
+color: #ca57ff;
+}
