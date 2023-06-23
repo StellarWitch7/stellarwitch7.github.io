@@ -29,7 +29,7 @@
 ## Socials
 
 - GitHub: [@StellarWitch7](https://github.com/StellarWitch7)
-- Discord: @StellarWitch#3662
+- Discord: @stellarwitch7
 
 [![I am present on GitHub and Discord primarily](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
