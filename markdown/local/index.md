@@ -6,6 +6,7 @@ View me on:
 
 ## Index
 - [About Me](https://stellarwitch7.github.io/about)
+- [Moth](https://stellarwitch7.github.io/moth)
 - [Earthguard](https://stellarwitch7.github.io/earthguard)
 
 ###### This website was made using GitHub Pages. [**View Source**](https://github.com/StellarWitch7/stellarwitch7.github.io). 
