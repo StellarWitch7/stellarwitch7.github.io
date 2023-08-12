@@ -6,7 +6,7 @@ const tick = new Worker('./worker.js', {
   }
 });
 
-let input: string;
+let input: string = '';
 let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 

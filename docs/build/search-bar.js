@@ -6,7 +6,7 @@ const tick = new worker_threads_1.Worker('./worker.js', {
         path: './workers/tick.ts'
     }
 });
-let input;
+let input = '';
 let searchDelay = 1000;
 let ticksSinceLastChange = 0;
 function updateInput(elem) {
