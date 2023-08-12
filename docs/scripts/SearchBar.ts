@@ -5,6 +5,7 @@ function updateInput(elem: HTMLInputElement) {
 
     console.log('Searching?');
     if (input.endsWith('?')) {
+        console.log('Searching!');
         input = '';
     }
 }
