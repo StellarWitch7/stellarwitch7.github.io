@@ -37,3 +37,6 @@ function search() {
 }
 searchbar.addEventListener('change', search);
 EventDelay.attachTo(searchbar);
+searchbar.addEventListener('input', () => {
+    input = searchbar.value;
+});
