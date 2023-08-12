@@ -11,10 +11,8 @@ let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
 function updateInput(elem: HTMLInputElement) {
-  setTimeout(() => {
-    input = elem.value;
-    ticksSinceLastChange = 0;
-  }, 10);
+  input = elem.value;
+  ticksSinceLastChange = 0;
 }
 
 function search() {

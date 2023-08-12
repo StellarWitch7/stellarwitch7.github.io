@@ -10,10 +10,8 @@ let input = '';
 let searchDelay = 1000;
 let ticksSinceLastChange = 0;
 function updateInput(elem) {
-    setTimeout(() => {
-        input = elem.value;
-        ticksSinceLastChange = 0;
-    }, 10);
+    input = elem.value;
+    ticksSinceLastChange = 0;
 }
 function search() {
     console.log(`Searching: "${input}"`);
