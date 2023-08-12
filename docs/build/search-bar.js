@@ -13,7 +13,7 @@ function updateInput(elem) {
     setTimeout(() => {
         input = elem.value;
         ticksSinceLastChange = 0;
-    });
+    }, 10);
 }
 function search() {
     console.log(`Searching: "${input}"`);

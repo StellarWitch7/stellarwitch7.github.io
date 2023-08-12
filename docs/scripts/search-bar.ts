@@ -14,7 +14,7 @@ function updateInput(elem: HTMLInputElement) {
   setTimeout(() => {
     input = elem.value;
     ticksSinceLastChange = 0;
-  });
+  }, 10);
 }
 
 function search() {
