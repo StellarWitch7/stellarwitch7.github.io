@@ -1,56 +1,53 @@
-// import { Worker } from 'worker_threads';
-
-// const tick = new Worker('./worker.js', {
-//   workerData: {
-//     path: './workers/tick.ts'
-//   }
-// });
-
 let searchbar: HTMLInputElement = (document.getElementById('searchbar') as HTMLInputElement);
-let input: string;
+let input: string = searchbar.value;
 let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
-function inputChanged() {
-  input = searchbar.value;
-  ticksSinceLastChange = 0;
+let ChangedEvent: Event = new Event('change');
+
+class EventDelay{
+  input: HTMLInputElement | undefined;
+  hasChange: boolean;
+  delay: number | undefined;
+  timer: NodeJS.Timer;
+  
+  constructor(input: HTMLInputElement, delay: number = 1000) {
+    var self = this;
+    this.hasChange = false;
+    this.delay = delay;
+
+    if (input) {
+      this.input = input;
+      this.input.addEventListener('input', () => self.onUserInput());
+    }
+    
+    this.timer = setInterval(() => self.onTimer(), self.delay);
+  }
+  
+  onTimer() {
+    if (this.hasChange) {
+      this.hasChange = false;
+
+      (this.input as HTMLInputElement).dispatchEvent(ChangedEvent);
+    }
+  }
+  
+  onUserInput() {
+    this.hasChange = true;
+    clearInterval(this.timer);
+    var self = this;
+    this.timer = setInterval(() => self.onTimer(), self.delay); 
+  }
+  
+  static attachTo(input: HTMLInputElement) {
+    var controller = new EventDelay(input, 700);
+    (input as any)['data-EventDelayInstance'] = controller;
+  }
 }
 
-function searchFor(str: string) {
+function search() {
   console.log(`Searching For: "${ input }"`);
 }
 
-searchbar.addEventListener('input', inputChanged);
-
-setInterval(() => {
-  if (ticksSinceLastChange != -1) {
-    ticksSinceLastChange++;
-  }
-
-  if (ticksSinceLastChange >= searchDelay) {
-    ticksSinceLastChange = -1;
-    searchFor(input);
-  }
-}, 500);
-
-// function updateInput(elem: HTMLInputElement) {
-//   input = elem.value;
-//   ticksSinceLastChange = 0;
-// }
-
-// function search() {
-//   console.log(`Searching: "${ input }"`);
-// }
-
-// tick.on('message', (result) => {
-//   if (result == 'tick') {
-//     if (ticksSinceLastChange != -1) {
-//       ticksSinceLastChange = ticksSinceLastChange + 1;
-//     }
-    
-//     if (ticksSinceLastChange >= searchDelay) {
-//       ticksSinceLastChange = -1;
-//       search();
-//     }
-//   }
-// });
+searchbar.addEventListener('change', search);
+EventDelay.attachTo(searchbar);
