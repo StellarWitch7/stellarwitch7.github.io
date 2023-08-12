@@ -7,7 +7,7 @@
 // });
 
 let searchbar: HTMLInputElement = (document.getElementById('searchbar') as HTMLInputElement);
-let input: string = searchbar.value;
+let input: string;
 let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
@@ -17,7 +17,7 @@ function inputChanged() {
   ticksSinceLastChange = 0;
 }
 
-searchbar.addEventListener('oninput', inputChanged);
+searchbar.addEventListener('input', inputChanged);
 
 // function updateInput(elem: HTMLInputElement) {
 //   input = elem.value;

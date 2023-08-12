@@ -6,7 +6,7 @@
 //   }
 // });
 let searchbar = document.getElementById('searchbar');
-let input = searchbar.value;
+let input;
 let searchDelay = 1000;
 let ticksSinceLastChange = 0;
 function inputChanged() {
@@ -14,7 +14,7 @@ function inputChanged() {
     input = searchbar.value;
     ticksSinceLastChange = 0;
 }
-searchbar.addEventListener('oninput', inputChanged);
+searchbar.addEventListener('input', inputChanged);
 // function updateInput(elem: HTMLInputElement) {
 //   input = elem.value;
 //   ticksSinceLastChange = 0;
