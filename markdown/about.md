@@ -24,11 +24,11 @@
 
 ## Known Languages
 
-[![I know CSharp and Java](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
+[![I know CSharp, Java, and Markdown](https://skillicons.dev/icons?i=cs,java,md)](https://skillicons.dev)
 
 ## Known Tools
 
-[![I've used Git, Visual Studio, and IntelliJ IDEA extensively, as well as some Unity and Blender](https://skillicons.dev/icons?i=git,visualstudio,unity,idea,blender)](https://skillicons.dev)
+[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Unity and Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,unity,idea,blender)](https://skillicons.dev)
 
 ## Socials
 
