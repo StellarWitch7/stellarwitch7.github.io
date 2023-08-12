@@ -2,5 +2,5 @@
 let input;
 function updateInput(elem) {
     input = elem.value;
-    console.log('Searching: "' + input + '"');
+    console.log('Searching: "' + input.toString() + '"');
 }
