@@ -12,9 +12,9 @@ let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
 function inputChanged() {
+  console.log('Input changed!');
   input = searchbar.value;
   ticksSinceLastChange = 0;
-  console.log('Input changed!');
 }
 
 searchbar.addEventListener('oninput', inputChanged);
