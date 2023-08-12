@@ -8,22 +8,34 @@
 - Pronouns: they/she
 - Hobbies: writing, programming, and reading
 
-<img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50"> <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
+<a href="https://pride-gen.rash.codes">
+  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50">
+</a>
+<a href="https://pride-gen.rash.codes">
+  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/trans.svg" width="50" height="50">
+</a>
+<a href="https://pride-gen.rash.codes">
+  <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
+</a>
+
+## Currently Learning
+
+[![I am learning TypeScript, HTML, and CSS](https://skillicons.dev/icons?i=ts,html,css)](https://skillicons.dev)
 
 ## Known Languages
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
+[![I know CSharp, Java, and Markdown](https://skillicons.dev/icons?i=cs,java,md)](https://skillicons.dev)
 
 ## Known Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,visualstudio,unity,idea,blender)](https://skillicons.dev)
+[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Unity and Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,unity,idea,blender)](https://skillicons.dev)
 
 ## Socials
 
 - GitHub: [@StellarWitch7](https://github.com/StellarWitch7)
-- Discord: @StellarWitch#3662
+- Discord: @stellarwitch7
 
-[![My Skills](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
+[![I am present on GitHub and Discord primarily](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
 
 ## Current Projects
 
@@ -36,4 +48,4 @@
 
 ## Details
 
-[![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/StellarWitch7)
+[![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
