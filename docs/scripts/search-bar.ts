@@ -7,13 +7,14 @@
 // });
 
 let searchbar: HTMLInputElement = (document.getElementById('searchbar') as HTMLInputElement);
-let input: string;
+let input: string = searchbar.value;
 let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
 function inputChanged() {
   input = searchbar.value;
   ticksSinceLastChange = 0;
+  console.log('Input changed!');
 }
 
 searchbar.addEventListener('oninput', inputChanged);

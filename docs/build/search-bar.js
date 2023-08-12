@@ -6,12 +6,13 @@
 //   }
 // });
 let searchbar = document.getElementById('searchbar');
-let input;
+let input = searchbar.value;
 let searchDelay = 1000;
 let ticksSinceLastChange = 0;
 function inputChanged() {
     input = searchbar.value;
     ticksSinceLastChange = 0;
+    console.log('Input changed!');
 }
 searchbar.addEventListener('oninput', inputChanged);
 // function updateInput(elem: HTMLInputElement) {
