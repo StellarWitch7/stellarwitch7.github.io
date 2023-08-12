@@ -12,12 +12,26 @@ let searchDelay: number = 1000;
 let ticksSinceLastChange: number = 0;
 
 function inputChanged() {
-  console.log('Input changed!');
   input = searchbar.value;
   ticksSinceLastChange = 0;
 }
 
+function searchFor(str: string) {
+  console.log(`Searching For: "${ input }"`);
+}
+
 searchbar.addEventListener('input', inputChanged);
+
+setInterval(() => {
+  if (ticksSinceLastChange != -1) {
+    ticksSinceLastChange++;
+  }
+
+  if (ticksSinceLastChange >= searchDelay) {
+    ticksSinceLastChange = -1;
+    searchFor(input);
+  }
+}, 500);
 
 // function updateInput(elem: HTMLInputElement) {
 //   input = elem.value;
