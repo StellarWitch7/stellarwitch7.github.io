@@ -1,10 +1,10 @@
 let input: string;
 
 function updateInput(elem: HTMLInputElement) {
+    console.log('Searching?');
     input = elem.value;
 
-    console.log('Searching?');
-    if (input.endsWith('?')) {
+    if (!input.endsWith('%')) {
         console.log('Searching!');
         input = '';
     }
