@@ -13,9 +13,8 @@ let ticksSinceLastChange: number = 0;
 function updateInput(elem: HTMLInputElement) {
   setTimeout(() => {
     input = elem.value;
+    ticksSinceLastChange = 0;
   });
-  
-  ticksSinceLastChange = 0;
 }
 
 function search() {

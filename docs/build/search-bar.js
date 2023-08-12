@@ -12,8 +12,8 @@ let ticksSinceLastChange = 0;
 function updateInput(elem) {
     setTimeout(() => {
         input = elem.value;
+        ticksSinceLastChange = 0;
     });
-    ticksSinceLastChange = 0;
 }
 function search() {
     console.log(`Searching: "${input}"`);
