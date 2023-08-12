@@ -10,7 +10,9 @@ let input = '';
 let searchDelay = 1000;
 let ticksSinceLastChange = 0;
 function updateInput(elem) {
-    input = elem.value;
+    setTimeout(() => {
+        input = elem.value;
+    });
     ticksSinceLastChange = 0;
 }
 function search() {
