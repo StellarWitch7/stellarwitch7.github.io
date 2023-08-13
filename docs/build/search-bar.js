@@ -35,8 +35,8 @@ class EventDelay {
 function search() {
     console.log(`Searching For: "${input}"`);
 }
-searchbar.addEventListener('change', search);
-EventDelay.attachTo(searchbar);
 searchbar.addEventListener('input', () => {
     input = searchbar.value;
 });
+searchbar.addEventListener('change', search);
+EventDelay.attachTo(searchbar);
