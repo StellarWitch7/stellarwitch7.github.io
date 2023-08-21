@@ -47,6 +47,10 @@
 
 - [Stellar Dice Calculator](https://github.com/StellarWitch7/DiceCalculator), an overly complicated program to calculate the most likely output from a dice roll. 
 
+## Proud PRs
+
+- [Minecraft YACL Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
+
 ## Details
 
 [![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
