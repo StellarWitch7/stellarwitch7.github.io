@@ -49,7 +49,7 @@
 
 ## Proud PRs
 
-- [Minecraft YACL Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
+- [Minecraft Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
 
 ## Details
 
