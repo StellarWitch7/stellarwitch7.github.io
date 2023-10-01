@@ -39,9 +39,7 @@
 
 ## Current Projects
 
-- [Moth](https://github.com/StellarWitch7/Moth), a C# compiler that converts from my custom Moth language to C-compatible code using LLVM. 
-- [Earthguard](https://github.com/StellarWitch7/Earthguard), a 1.19.2 Fabric Minecraft mod. 
-- [The Evergreen Project](https://github.com/StellarWitch7/The-Evergreen-Project), a WPF app to facilitate the creation of choose-your-own-adventure games. 
+- [Moth](https://github.com/StellarWitch7/Moth), a compiler written in C# that converts from my custom Moth language to C-compatible code using LLVM. 
 
 ## Archived Projects
 
