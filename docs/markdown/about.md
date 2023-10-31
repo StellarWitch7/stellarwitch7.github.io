@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
-## Currently/Interested in Learning
+## Interested in/Currently Learning
 
 [![I am learning TypeScript, HTML, and CSS, as well as some C](https://skillicons.dev/icons?i=ts,html,css,c)](https://skillicons.dev)
 
