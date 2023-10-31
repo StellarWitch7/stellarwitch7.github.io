@@ -18,17 +18,17 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
-## Currently Learning
+## Currently/Interested in Learning
 
-[![I am learning TypeScript, HTML, and CSS](https://skillicons.dev/icons?i=ts,html,css)](https://skillicons.dev)
+[![I am learning TypeScript, HTML, and CSS, as well as some C](https://skillicons.dev/icons?i=ts,html,css,c)](https://skillicons.dev)
 
 ## Known Languages
 
-[![I know CSharp, Java, and Markdown](https://skillicons.dev/icons?i=cs,java,md)](https://skillicons.dev)
+[![I know CSharp, Java, and Markdown, as well as a small bit of python](https://skillicons.dev/icons?i=cs,java,md,py)](https://skillicons.dev)
 
 ## Known Tools
 
-[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Unity and Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,unity,idea,blender)](https://skillicons.dev)
+[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,blender)](https://skillicons.dev)
 
 ## Socials
 
