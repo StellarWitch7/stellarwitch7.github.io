@@ -24,7 +24,7 @@
 
 ## Known Languages
 
-[![I know CSharp, Java, and Markdown, as well as a small bit of python](https://skillicons.dev/icons?i=cs,java,md,py)](https://skillicons.dev)
+[![I know CSharp, Markdown, and Java, as well as a small bit of Python](https://skillicons.dev/icons?i=cs,java,md,py)](https://skillicons.dev)
 
 ## Known Tools
 
