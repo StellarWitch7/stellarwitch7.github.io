@@ -20,7 +20,7 @@
 
 ## Interested in/Currently Learning
 
-[![I am learning TypeScript, HTML, and CSS, as well as some C, and Godot](https://skillicons.dev/icons?i=ts,html,css,c,godot)](https://skillicons.dev)
+[![I am learning TypeScript, HTML, and CSS, as well as some C, Rust, and Godot](https://skillicons.dev/icons?i=ts,html,css,c,rust,godot)](https://skillicons.dev)
 
 ## Known Languages
 
