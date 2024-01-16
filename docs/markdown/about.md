@@ -18,9 +18,9 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
-## Interested in/Currently Learning
+## Interested in
 
-[![I am learning TypeScript, HTML, and CSS, as well as some C, Rust, and Godot](https://skillicons.dev/icons?i=ts,html,css,c,rust,godot)](https://skillicons.dev)
+[![I am interested in TypeScript, HTML, CSS, C/C++, Rust, and Godot](https://skillicons.dev/icons?i=ts,html,css,c,cpp,rust,godot)](https://skillicons.dev)
 
 ## Known Languages
 
