@@ -46,6 +46,10 @@
 
 - [Stellar Dice Calculator](https://github.com/StellarWitch7/DiceCalculator), an overly complicated program to calculate the most likely output from a dice roll. 
 
+## Nix Package Repository
+
+I host my personal Nix packages publicly at [`StellarWitch/nurpkgs`](https://github.com/StellarWitch7/nurpkgs). All package definitions are licensed under MIT. 
+
 ## Proud PRs
 
 - [Minecraft Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
