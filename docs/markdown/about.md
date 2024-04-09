@@ -18,17 +18,21 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
-## Interested in
+## Languages I'm Interested In
 
-[![I am interested in TypeScript, HTML, CSS, C/C++, Rust, and Godot](https://skillicons.dev/icons?i=ts,html,css,c,cpp,rust,godot)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nix,ts,html,css,c,cpp,rust,godot)](https://skillicons.dev)
 
 ## Known Languages
 
-[![I know CSharp, Markdown, and Java, as well as a small bit of Python](https://skillicons.dev/icons?i=cs,java,md,py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,java,md,py)](https://skillicons.dev)
 
-## Known Tools
+## Tools I've Used
 
-[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,pycharm,blender)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,clion,pycharm,octave,blender)](https://skillicons.dev)
+
+## Operating Systems I've Used
+
+[![](https://skillicons.dev/icons?i=nix,arch,windows)](https://skillicons.dev)
 
 ## Socials
 
