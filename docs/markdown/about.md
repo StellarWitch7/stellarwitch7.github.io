@@ -28,7 +28,7 @@
 
 ## Known Tools
 
-[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,idea,blender)](https://skillicons.dev)
+[![I've used Git, Visual Studio, VS Code, and IntelliJ IDEA extensively, as well as some Blender](https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,pycharm,blender)](https://skillicons.dev)
 
 ## Socials
 
