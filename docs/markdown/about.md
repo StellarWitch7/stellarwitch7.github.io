@@ -43,7 +43,9 @@
 
 ## Current Projects
 
-- [Moth](https://github.com/StellarWitch7/Moth), a compiler written in C# that converts from my custom Moth language to C-compatible code using LLVM.
+- [moth-lang](https://github.com/StellarWitch7/moth-lang), a compiler written in C# that converts from my custom Moth language to C-compatible code using LLVM. Includes the `luna` build tool. 
+  - [moth-core](https://github.com/StellarWitch7/moth-core), the standard library for Moth.
+  - [moth-dev](https://github.com/StellarWitch7/moth-dev), a VS Code extension providing syntax highlighting for Moth code files. 
 - [ConnectR](https://github.com/StellarWitch7/connectr), a server written in Rust meant for filehosting and messaging. 
 
 ## Archived Projects
