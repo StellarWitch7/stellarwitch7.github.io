@@ -20,11 +20,11 @@
 
 ## Languages I'm Interested In
 
-[![](https://skillicons.dev/icons?i=nix,mysql,rust,c,cpp,ts,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=mysql,rust,c,cpp,ts,html,css)](https://skillicons.dev)
 
 ## Known Languages
 
-[![](https://skillicons.dev/icons?i=cs,java,bash,md,py)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=cs,nix,bash,md,py,java)](https://skillicons.dev)
 
 ## Tools I've Used
 
