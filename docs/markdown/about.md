@@ -58,7 +58,7 @@ I host my personal Nix packages publicly at [`StellarWitch/nurpkgs`](https://git
 
 ## Proud PRs
 
-- [Minecraft Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
+- [Do A Barrel Roll Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
 
 ## Details
 
