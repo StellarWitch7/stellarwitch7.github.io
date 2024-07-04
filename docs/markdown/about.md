@@ -2,11 +2,27 @@
 
 [Home Page](https://stellarwitch7.github.io)
 
-## The Basics
+```
+extend #Human to pub type Aurora {
+    pub names #[#str];
+    pub pronouns #[#PronounSet];
 
-- Names: Aurora/Auri/Aura
-- Pronouns: they/she
-- Hobbies: writing, programming, and reading
+    pub init() {
+        self.names = #str["Aurora", "Auri", "Aura", "Aur"];
+        self.pronouns = #PronounSet[init #PronounSet("they"), init #PronounSet("she")];
+
+        ret self
+    }
+}
+
+extend #Programmer for #Aurora {
+    pub fn Sleep() #void {
+        // no time, we can later
+        #Task.Schedule(self.Sleep, #Time.FromText("2h");
+        ret
+    }
+}
+```
 
 <a href="https://pride-gen.rash.codes">
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50">
