@@ -9,17 +9,21 @@ extend #Human to pub type Aurora {
 
     pub init() {
         self.names = #str["Aurora", "Auri", "Aura", "Aur"];
-        self.pronouns = #PronounSet[init #PronounSet("they"), init #PronounSet("she")];
+        self.pronouns = #PronounSet[#Pronouns.NEUT.Get(), #Pronouns.FEM.Get()];
 
         ret self
     }
-}
 
-extend #Programmer for #Aurora {
     pub fn Sleep() #void {
         // no time, we can later
         #Task.Schedule(self.Sleep, #Time.FromText("2h");
         ret
+    }
+}
+
+extend #Programmer for #Aurora {
+    pub fn Develop(tools #[#ToolSet]) #Result<#Project, #Error> {
+        ret if tools.Contains(#Tools.JAVASCRIPT) then #Result.Err(init #IllegalToolError()) else #Result.Ok(init #Project(self, tools))
     }
 }
 ```
