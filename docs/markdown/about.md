@@ -23,7 +23,9 @@ extend #Human to pub type Aurora {
 
 extend #Programmer for #Aurora {
     pub fn Develop(tools #[#ToolSet]) #Result<#Project, #Error> {
-        ret if tools.Contains(#Tools.JavaScript.Get()) then #Result.Err(init #IllegalToolError()) else #Result.Ok(init #Project(self, tools))
+        ret if tools.Contains(#Tools.JavaScript.Get())
+            then #Result.Err(init #IllegalToolError())
+            else #Result.Ok(init #Project(self, tools))
     }
 }
 ```
