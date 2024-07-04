@@ -3,7 +3,7 @@
 [Home Page](https://stellarwitch7.github.io)
 
 ```
-extend #Human to pub type Aurora {
+pub type Aurora #Human {
     pub names #[#str];
     pub pronouns #[#PronounSet];
 
