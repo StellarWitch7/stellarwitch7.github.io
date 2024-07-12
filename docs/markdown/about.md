@@ -5,26 +5,26 @@
 ```
 pub type Aurora #Human {
     pub names #[#str];
-    pub pronouns #[#PronounSet];
+    pub pronouns #[#PronounGroup];
 
     pub init() {
         self.names = #str["Aurora", "Auri", "Aura", "Aur"];
-        self.pronouns = #PronounSet[#Pronouns.Neutral.Get(), #Pronouns.Feminine.Get()];
+        self.pronouns = #PronounGroup[#PronounGroup.Neutral, #PronounGroup.Feminine];
 
         ret self
     }
 
     pub fn Sleep() #void {
         // no time, we can later
-        #Task.Schedule(self.Sleep, #Time("2h");
+        #Task.Schedule(self.Sleep, #Time.in("2h");
         ret
     }
 }
 
 extend #Programmer for #Aurora {
-    pub fn Develop(tools #[#ToolSet]) #Result<#Project, #Error> {
-        ret if tools.Contains(#Tools.JavaScript.Get())
-            then #Result.Err(init #IllegalToolError())
+    pub fn Develop(tools #[#Tool]) #Result<#Project, #Error> {
+        ret if tools.Contains(#Tool.JavaScript)
+            then #Result.Err(init #IllegalToolError(#Tool.JavaScript))
             else #Result.Ok(init #Project(self, tools))
     }
 }
