@@ -42,7 +42,7 @@ extend #Programmer for #Aurora {
 
 ## Languages I'm Interested In
 
-[![](https://skillicons.dev/icons?i=rust,mysql,c,cpp,ts,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=kotlin,rust,mysql,c,cpp,ts,html,css)](https://skillicons.dev)
 
 ## Known Languages
 
