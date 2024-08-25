@@ -2,6 +2,12 @@
 
 [Home Page](https://stellarwitch7.github.io)
 
+## The Basics
+
+- Names: Aurora/Auri/Aura
+- Pronouns: they/she
+- Hobbies: writing, programming, and reading
+
 <a href="https://pride-gen.rash.codes">
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50">
 </a>
