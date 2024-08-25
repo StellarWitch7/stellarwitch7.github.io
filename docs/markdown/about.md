@@ -2,34 +2,6 @@
 
 [Home Page](https://stellarwitch7.github.io)
 
-```
-pub type Aurora #Human {
-    pub names #[#str];
-    pub pronouns #[#PronounGroup];
-
-    pub init() {
-        self.names = #str["Aurora", "Auri", "Aura", "Aur"];
-        self.pronouns = #PronounGroup[#PronounGroup.Neutral, #PronounGroup.Feminine];
-
-        ret self
-    }
-
-    pub fn Sleep() #void {
-        // no time, we can later
-        #Task.Schedule(self.Sleep, #Time.in("2h");
-        ret
-    }
-}
-
-extend #Programmer for #Aurora {
-    pub fn Develop(tools #[#Tool]) #Result<#Project, #Error> {
-        ret if tools.Contains(#Tool.JavaScript)
-            then #Result.Err(init #IllegalToolError(#Tool.JavaScript))
-            else #Result.Ok(init #Project(self, tools))
-    }
-}
-```
-
 <a href="https://pride-gen.rash.codes">
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/enby.svg" width="50" height="50">
 </a>
