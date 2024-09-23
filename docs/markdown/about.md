@@ -43,9 +43,6 @@
 
 ## Current Projects
 
-- [moth-lang](https://github.com/StellarWitch7/moth-lang), a compiler written in C# that converts from my custom Moth language to C-compatible code using LLVM. Includes the `luna` build tool and `silk` bindings generator. 
-  - [moth-core](https://github.com/StellarWitch7/moth-core), the standard library for Moth. 
-  - [moth-dev](https://github.com/StellarWitch7/moth-dev), a VS Code extension providing syntax highlighting for Moth source code files. 
 - [ConnectR](https://github.com/StellarWitch7/connectr), a server written in Rust meant for filehosting and messaging. 
 - [Trickster](https://github.com/enjarai/trickster), a Minecraft Fabric mod that implements a pattern-based functional programming language that supports concurrency. Thanks to enjarai for creating such an amazing project.
 - [RAM](https://github.com/StellarWitch7/ram), an addon to Trickster that implements an alternative Crow Mind. 
