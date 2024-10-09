@@ -34,13 +34,6 @@
 
 [![](https://skillicons.dev/icons?i=nix,arch,windows)](https://skillicons.dev)
 
-## Socials
-
-- GitHub: [@StellarWitch7](https://github.com/StellarWitch7)
-- Discord: @stellarwitch7
-
-[![I am present on GitHub and Discord primarily](https://skillicons.dev/icons?i=github,discord)](https://skillicons.dev)
-
 ## Current Projects
 
 - [ConnectR](https://github.com/StellarWitch7/connectr), a server written in Rust meant for filehosting and messaging. 
