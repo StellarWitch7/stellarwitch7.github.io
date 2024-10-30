@@ -20,7 +20,7 @@
 
 ## Languages I'm Interested In
 
-[![](https://skillicons.dev/icons?i=scala,kotlin,rust,haskell,mysql,c)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,scala,haskell,mysql,c)](https://skillicons.dev)
 
 ## Known Languages
 
