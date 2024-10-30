@@ -20,7 +20,7 @@
 
 ## Languages I've Used
 
-[![](https://skillicons.dev/icons?i=rust,scala,nix,cs,java,bash,md,py,mysql)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,cs,scala,nix,java,bash,md,py,mysql)](https://skillicons.dev)
 
 ## Tools I've Used
 
