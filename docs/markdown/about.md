@@ -18,13 +18,9 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
-## Languages I'm Interested In
+## Languages I've Used
 
-[![](https://skillicons.dev/icons?i=rust,scala,haskell,mysql,c)](https://skillicons.dev)
-
-## Known Languages
-
-[![](https://skillicons.dev/icons?i=cs,nix,bash,md,py,java)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,scala,nix,cs,java,bash,md,py,mysql)](https://skillicons.dev)
 
 ## Tools I've Used
 
