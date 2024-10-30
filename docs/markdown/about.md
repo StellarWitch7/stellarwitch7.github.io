@@ -28,7 +28,7 @@
 
 ## Tools I've Used
 
-[![](https://skillicons.dev/icons?i=git,visualstudio,vscode,rider,idea,clion,pycharm,octave,blender)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=git,neovim,visualstudio,vscode,rider,idea,clion,pycharm,octave,blender)](https://skillicons.dev)
 
 ## Operating Systems I've Used
 
