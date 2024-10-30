@@ -36,7 +36,8 @@
 
 ## Current Projects
 
-- [ConnectR](https://github.com/StellarWitch7/connectr), a server written in Rust meant for filehosting and messaging. 
+- [ConnectR](https://github.com/StellarWitch7/connectr), a server written in Rust meant for filehosting and messaging.
+- [Don't Repeat Yourself!](https://github.com/StellarWitch7/dont-repeat-yourself), a tool for saving and loading snapshots of the X11 clipboard. 
 - [Trickster](https://github.com/enjarai/trickster), a Minecraft Fabric mod that implements a pattern-based functional programming language that supports concurrency. Thanks to enjarai for creating such an amazing project.
 - [RAM](https://github.com/StellarWitch7/ram), an addon to Trickster that implements an alternative Crow Mind. 
 - [libstellar](https://github.com/StellarWitch7/libstellar), my personal library for modding Minecraft with Fabric, in Kotlin. 
