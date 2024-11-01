@@ -46,10 +46,6 @@
 
 I host my personal Nix packages publicly at [`StellarWitch/nurpkgs`](https://github.com/StellarWitch7/nurpkgs). All package definitions are licensed under MIT. 
 
-## Proud PRs
-
-- [Do A Barrel Roll Syntax Highlighting](https://github.com/enjarai/do-a-barrel-roll/pull/103)
-
 ## Details
 
 [![Metrics](https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
