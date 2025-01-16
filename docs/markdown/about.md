@@ -18,6 +18,10 @@
   <img src="https://raw.githubusercontent.com/StellarWitch7/StellarWitch7/main/bi.svg" width="50" height="50">
 </a>
 
+## Contact Me
+- E-mail: `aurora.dawn@trans.fish`
+- Discord: `@stellarwitch7`
+
 ## Languages I've Used
 
 [![](https://skillicons.dev/icons?i=rust,cs,scala,nix,java,bash,md,py,mysql)](https://skillicons.dev)
